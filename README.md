@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🪝 &nbsp;About Me
+Hey, I'm Bailey. I am a self taught developer (with help from friends with certain things) mainly using python and sometimes C++
 
-<!--
-**ItsbaileyX3525/ItsbaileyX3525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Software**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Stacks**
+
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://i.imgur.com/VJmeyAU.jpeg)
+![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=white)
+
