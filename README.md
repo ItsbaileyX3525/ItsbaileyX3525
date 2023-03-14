@@ -9,6 +9,5 @@ Hey, I'm Bailey. I am a self taught developer (with help from friends with certa
 **Stacks**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://i.imgur.com/VJmeyAU.jpeg)
 ![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=white)
 
