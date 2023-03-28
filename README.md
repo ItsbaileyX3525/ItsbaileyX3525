@@ -1,7 +1,9 @@
 # Hi there, I'm Bailey!
 
+I code, build things and enjoy working on projects with people
+
 ## Intro
-I'm a self-taught developer with a passion for creating innovative solutions using Python and occasionally C++. While I've received some help from friends along the way, I'm proud to say that most of what I know I've taught myself.
+I'm a self-taught, python and C#, developer with a passion for creating innovative solutions using Python and quite often C#, i also know a little C++ but not a lot. While I've received some help from friends along the way, I'm proud to say that most of what I know I've taught myself.
 
 ## Websites and media
 I've recently built my own website, which you can check out at https://baileyswebsite.ddns.net. It showcases my skills and accomplishments in more detail than I could fit here.
