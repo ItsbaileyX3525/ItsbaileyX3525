@@ -8,7 +8,7 @@ I'm a self-taught, python and C#, developer with a passion for creating innovati
 ## Websites and media
 I've recently built my own website, which you can check out at https://baileyswebsite.ddns.net. It showcases my skills and accomplishments in more detail than I could fit here. I also have a blog site which RangerRhino23 created but I post blogs too https://pyblog.ddns.net/home.
 
-While I used JavaScript and HTML to build my site, I have yet to master languages like PHP and SQL. However, when it comes to Python, I'm a real expert. I'm currently in year 10 (or grade 10, depending on where you're from), and I'm proud to say that I'm at the top of my class. I even beat my teacher in practical skills!
+While I used JavaScript and HTML to build my site, I have yet to master languages like PHP and SQL. However, when it comes to Python, I'm a real expert. I'm currently in year 10 (or grade 9, depending on where you're from), and I'm proud to say that I'm at the top of my class. I even beat my teacher in practical skills!
 
 ## Coding skills
 In addition to Python, I occasionally dabble in other languages like C++. That said, these days, I primarily use Unreal's Blueprint, which I find much easier to use than coding from scratch. I also have started using unity and C# and i have came a long way, you can find a download file for my game (Android only) in my website repo called "bailey.github.io" named "sus clicker.apk"
