@@ -1,7 +1,5 @@
 # Hi there, I'm Bailey!
 
-I code, build things and enjoy working on projects with people
-
 ## Intro
 I like to code most of my projects in python but I use other languages such as java, javascript (which idk if it is a proper language but idc) and SQL. Most of the time I'm either creating games for HTML so I can install them on my phone and if im not doing that then im building a ultilty script in python that helps me or im using HTML and python when I work with flask.
 
