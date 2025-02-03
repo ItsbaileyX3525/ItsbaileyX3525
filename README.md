@@ -1,20 +1,22 @@
-# Hi there, I'm Bailey!
+# Hi, I'm Bailey!
 
-## Intro
-I like to code most of my projects in python but I use other languages such as java, javascript (which idk if it is a proper language but idc) and SQL. Most of the time I'm either creating games for HTML so I can install them on my phone and if im not doing that then im building a ultilty script in python that helps me or im using HTML and python when I work with flask.
+I enjoy coding, playing games and various other things! I code in many languages but the one I use the most is python and JS.
 
-## Websites and media
-I've built my own website, which you can check out at https://mileswebsite.ddns.net. It showcases my skills and accomplishments in more detail than I could fit here. I also have a blog site which RangerRhino23 created but I post blogs too https://pyblog.ddns.net/home. Recently I've built a brand new site called "Bailey's chatroom" which the name is handcrafted for perfection, anyways it cost me 1 month of my life to make this but i am glad I did because it is one of the most funnest projects I've ever done, you can check out the site at: https://www.baileyschatroom.co.uk
+## Languages I know
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,cpp,js,html,css,lua,rust)](https://skillicons.dev)
 
-While I used JavaScript and HTML to build my site, I have yet to master languages like PHP and SQL. However, when it comes to Python, I'm a real expert. I'm currently in year 11 (or grade 10, depending on where you're from), and I'm proud to say that I'm at the top of my class. I even beat my teacher in practical skills!
+While I am more profcient in python and JS, I still can code at near the same level as all the other languages listed above (perhaps not rust as of now because I haven't had too much experience), most of the times I use python for creating short prototypes or quick applications and javascript for websites... Obviously. The main language I use now is gdscript which is used for godot and is it like python and C#.
 
-## Coding skills
-Like I said in my intro I mainly use python but I use langauges like Java and occasionaly I will use C# when im using unity, though I haven't used unity in a while nor do I plan on using it anytime soon. Right now im not advanced in java like I am in python as its hard for me to learn java as I learn it at my school but it requires a JDK which I can't install without admin so right now my learning speed is hindered by that otherwise my skills in HTML, JS and python are quite good considering I've only worked on these languages for about 1 year
+# Studios I use
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,godot)](https://skillicons.dev)
 
-If you're curious about my work, be sure to check out my itch account. There, you'll find a few games I've made and am currently working on, such as nextbots and sus clicker: python version.
+I haven't used android studio in a long time but the other two studios I use almost every day from creating games with godot to writing simple python files in vscode. I enjoy godot for its simple use and its very easy learning curve that is has and I love vscode because it is very customisable even if it is just a glorifed text editor. I have dabbled in other studios but these are the main 3 that I use.
 
-## Games and apps
-I haven't created many apps and or games but I do make little side games which you can see in my repos. As of 2023 I am currently working on a mobile app called "Clicker heros" (spelt incorrectly cause why not) which uses the taptapir framework on javascript by one of my favourite developers, @pokepetter
+# Misc
+[![My Skills](https://skillicons.dev/icons?i=discordjs,flask,git,github,gradle,raspberrypi,windows)](https://skillicons.dev)
 
-### Thank you!
-Thanks for taking the time to read my README. I can't wait to see what exciting projects the future holds!
+DiscordJS is fairly new and I wouldn't say that I'm a master at it at all but I have created a simple bot that me and my friends use on discord! Flask, I have a lot of experience in, creating my own chatroom site so people can talk to each other and upload images all hosted from my very on flask server that anyone can connect to and even see on my repos (key is hidden). Git and github are self explanotory, gradle because of android studio and I use my raspberry pi for hosting my chatroom (When i use to host it) and finally windows, that is my main operating system, allowing me to code and play games!
+
+# Thanks for reading!
+
+Thank you if you read all this as this took some time to write out and have yourself a great day!
