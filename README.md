@@ -3,7 +3,7 @@
 I enjoy coding, playing games and various other things! I code in many languages but the one I use the most is python and JS.
 
 ## Languages I know
-[![My Skills](https://skillicons.dev/icons?i=py,c,cs,js,html,css,lua,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,js,ts,html,css,lua)](https://skillicons.dev)
 
 While I am more profcient in python and JS, I still can code at near the same level as all the other languages listed above (perhaps not rust as of now because I haven't had too much experience), most of the times I use python for creating short prototypes or quick applications and javascript for websites... Obviously. The main language I use now is gdscript which is used for godot and is it like python and C#.
 
